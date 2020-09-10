@@ -1,0 +1,43 @@
+.crop {
+    float: left;
+    margin: .5em 10px .5em 0;
+    overflow: visible;
+
+}
+
+h2 {
+    border-bottom: 4px solid;
+}
+
+.aboutMe {
+    font-size: 26px;
+    font-family: "Roboto";
+
+
+}
+
+.ul1 {
+    list-style-type: none;
+    padding-bottom: 30px;
+}
+
+li {
+    font-size: 32px;
+    font-family: "Arial", sans-serif;
+
+    margin-bottom: 10px;
+}
+
+
+.site {
+    background-color: #1936748f;
+}
+
+
+
+.list1 {
+    padding-left: 100px;
+    font-size: 32px;
+    font-family: "Arial", sans-serif;
+    line-height: 36px;
+}
